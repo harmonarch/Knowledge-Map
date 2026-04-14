@@ -19,7 +19,9 @@ tags:
 - 工程化落地
 
 ## 相关概念
-- 
+- [[Cloudflare AI Gateway]]
+- [[Workers AI]]
+- [[Vectorize]]
 
 ## 相关决策
 - 
@@ -28,7 +30,7 @@ tags:
 - 
 
 ## 与其他领域的连接
-- 
+- [[Cloudflare]] — AI Gateway + Workers AI + Vectorize 支撑 AI 应用基础设施
 
 ## 当前理解边界
 - 我已经理解：
