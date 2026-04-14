@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/
+
+# Playwright MCP
+.playwright-mcp/
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
