@@ -19,6 +19,7 @@ tags:
 - 工程化落地
 
 ## 相关概念
+- [[Claude Code 省 Token 策略]]
 - [[Cloudflare AI Gateway]]
 - [[Workers AI]]
 - [[Vectorize]]
