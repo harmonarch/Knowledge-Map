@@ -23,6 +23,7 @@ tags:
 - [[Cloudflare AI Gateway]]
 - [[Workers AI]]
 - [[Vectorize]]
+- [[NotebookLM 提问式加速学习]]
 
 ## 相关决策
 - 
