@@ -1,6 +1,7 @@
 ---
 type: decision
 status: active
+created: 2026-04-15
 tags:
   - decision
   - hosting

@@ -1,6 +1,7 @@
 ---
 type: concept
 status: evergreen
+created: 2026-04-16
 tags:
   - concept
   - note-taking

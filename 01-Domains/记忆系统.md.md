@@ -1,6 +1,7 @@
 ---
 type: domain
 status: active
+created: 2026-04-14
 tags:
   - domain
 ---
