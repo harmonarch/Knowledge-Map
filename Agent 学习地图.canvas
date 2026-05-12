@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"05f1b34f1b4b55ad","type":"text","text":"# Agent核心架构","x":-440,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"db7a01434e340f22","type":"text","text":"情绪状态机","x":-57,"y":-150,"width":250,"height":60},
+		{"id":"2fb99c141bbae939","type":"text","text":"工具调用","x":-57,"y":-32,"width":250,"height":60},
+		{"id":"84849d046db21857","type":"text","text":"流程编排","x":-47,"y":81,"width":250,"height":60},
+		{"id":"734c4150d66e8bb7","type":"text","text":"工程化落地","x":-47,"y":200,"width":250,"height":60},
+		{"id":"c3eb8cd64cd728db","type":"text","text":"记忆系统","x":-57,"y":-560,"width":250,"height":60,"color":"5"},
+		{"id":"55d6a05842211bc5","type":"text","text":"怎么找","x":340,"y":-620,"width":250,"height":60},
+		{"id":"bb19f716320143c6","type":"text","text":"存什么","x":340,"y":-760,"width":250,"height":60},
+		{"id":"18b42e611c580850","type":"text","text":"什么时候放进去","x":340,"y":-480,"width":250,"height":60},
+		{"id":"97372677600f04cc","type":"text","text":"什么时候写回去","x":340,"y":-340,"width":250,"height":60},
+		{"id":"efb627c09558fd72","type":"text","text":"在有限的 Token 预算内最大化有效信息密度","x":740,"y":-940,"width":250,"height":60},
+		{"id":"a011fe0705dcf2d3","x":740,"y":-820,"width":250,"height":60,"type":"text","text":"存\"以后会用到的信息\"，扔掉\"用不到的噪音\""}
+	],
+	"edges":[
+		{"id":"a42f2e984c2bbd0a","fromNode":"05f1b34f1b4b55ad","fromSide":"right","toNode":"2fb99c141bbae939","toSide":"left"},
+		{"id":"45e908387f6d12c6","fromNode":"05f1b34f1b4b55ad","fromSide":"right","toNode":"84849d046db21857","toSide":"left"},
+		{"id":"633f489e8b377bf7","fromNode":"05f1b34f1b4b55ad","fromSide":"right","toNode":"734c4150d66e8bb7","toSide":"left"},
+		{"id":"e9d4354edf1902e2","fromNode":"05f1b34f1b4b55ad","fromSide":"right","toNode":"db7a01434e340f22","toSide":"left"},
+		{"id":"e716b987ea118ed7","fromNode":"05f1b34f1b4b55ad","fromSide":"right","toNode":"c3eb8cd64cd728db","toSide":"left"},
+		{"id":"80d5d53a3321051e","fromNode":"c3eb8cd64cd728db","fromSide":"right","toNode":"bb19f716320143c6","toSide":"left"},
+		{"id":"03baa4afc2a7c263","fromNode":"c3eb8cd64cd728db","fromSide":"right","toNode":"55d6a05842211bc5","toSide":"left"},
+		{"id":"96ba73b6cc84a344","fromNode":"c3eb8cd64cd728db","fromSide":"right","toNode":"18b42e611c580850","toSide":"left"},
+		{"id":"04fe5370e30b2f89","fromNode":"c3eb8cd64cd728db","fromSide":"right","toNode":"97372677600f04cc","toSide":"left"},
+		{"id":"061f0a344fdc77dd","fromNode":"bb19f716320143c6","fromSide":"right","toNode":"efb627c09558fd72","toSide":"left"},
+		{"id":"e3b8ebe15b7b32e5","fromNode":"bb19f716320143c6","fromSide":"right","toNode":"a011fe0705dcf2d3","toSide":"left"}
+	]
+}
