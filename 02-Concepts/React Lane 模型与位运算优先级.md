@@ -99,6 +99,7 @@ const highest = updated & -updated; // 取最高权限
 ## 关联节点
 - [[前端]]
 - [[React 并发模式与调度机制]]
+- [[React 并发调度架构设计与系统类比]]
 - [[React useState 环形链表与更新机制]]
 
 ## 适用场景
