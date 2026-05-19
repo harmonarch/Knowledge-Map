@@ -20,6 +20,7 @@ tags:
 - 工程化落地
 
 ## 相关概念
+- [[AI 认知债务]]
 - [[Claude Code 省 Token 策略]]
 - [[Cloudflare AI Gateway]]
 - [[Workers AI]]
