@@ -122,6 +122,8 @@ View -> dispatch(action) -> Reducer -> 新 State -> View 更新
 ## 关联节点
 
 - [[前端]]
+- [[React 组件拆分与 Controller 粒度]]
+- [[BFF 架构]]
 - [[React useState 环形链表与更新机制]]
 - [[React 并发模式与调度机制]]
 - [[Monorepo]]
